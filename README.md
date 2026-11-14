@@ -6,7 +6,7 @@ the full picture is at **[ianh.me](https://ianh.me)**.
 
 ## now
 
-- **[Other](https://yourother.app)**: A social map for your digital twin.
+- **[other](https://yourother.app)**: a social map for your digital twin.
 
 ## past
 
